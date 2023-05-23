@@ -1,2 +1,2 @@
-# gmp
+# GMP
 Google Managed Prometheus Repo
